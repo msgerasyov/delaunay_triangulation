@@ -1,1 +1,1 @@
-# delaunay_triangulation
+# Онлайн-триангуляция Делоне
